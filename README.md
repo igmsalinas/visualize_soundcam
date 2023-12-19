@@ -2,9 +2,8 @@
 Notebook for SoundCam RIR database visualization
 
 # References
-@article{soundcam2023,  
-  title={SoundCam: A Dataset for Finding Humans Using Room Acoustics},  
-  author={Mason Wang and Samuel Clarke and Jui-Hsien Wang and Ruohan Gao and Jiajun Wu},  
-  year={2023},  
-  booktitle={Arkiv},  
+@article{kujawski2023miracle,  
+  title={MIRACLE-Microphone Array Impulse Response Dataset for Acoustic Learning},  
+  author={Kujawski, Adam and Pelling, Art JR and Sarradj, Ennes},  
+  year={2023}  
 }
